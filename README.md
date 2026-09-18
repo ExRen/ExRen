@@ -1,39 +1,35 @@
+<!-- HEADER ANIMATION -->
 <div align="center">
-  <h1>Hi, I'm Bima Aryadinata 👋</h1>
-  <p><strong>Undergraduate Student at Sriwijaya University | Full-stack & Automation Developer</strong></p>
-  <p>Building scalable web applications, automation bots, and data-gathering workflows.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=BIMA%20ARYADINATA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Automation%20%26%20Security%20Enthusiast&descFontSize=18&descAlignY=58&descAlign=50" width="100%" />
+
+  <!-- DYNAMIC TYPING SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Undergraduate+Student+%40+Sriwijaya+University;Building+Scalable+Web+%26+Next.js+Apps;Automating+Workflows+%26+Scraping+Engines;Exploring+OSINT+%26+Cyber+Security+Tools" alt="Typing SVG" />
+  </a>
 </div>
 
----
-
-### 🛠 Tech Stack
-
-- **Frontend & Web:** Next.js, React, TypeScript, Tailwind CSS, HTML5/CSS3
-- **Backend & Scripting:** Python, Node.js, Express, Flask
-- **Automation & Scraping:** Playwright, Puppeteer, Selenium, Beautiful Soup
-- **Databases & Tools:** PostgreSQL, Prisma, Git, Linux, Docker, Figma
-
----
-
-### 📌 Highlights & What I Build
-
-- 🌐 **Modern Web Applications:** Production-ready web systems with responsive UI, API integrations, and clean state management.
-- ⚡ **Automation Engines:** Social media scrapers, auto-content pipelines (YouTube/Shorts generation), and notification bots.
-- 🔍 **OSINT & Recon Tools:** Modular CLI scripts for public data extraction, intelligence gathering, and security analysis.
-
----
-
-### 📊 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ExRen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bima's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExRen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/ExRen">
+    <img src="https://komarev.com/ghpvc/?username=ExRen&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
-### 📬 Connect
+### 🚀 Tech Stack & Tooling
 
-- **Location:** Bangka Belitung / Palembang, Indonesia
-- **GitHub:** [@ExRen](https://github.com/ExRen)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,python,flask,postgres,prisma,git,docker,linux,figma" />
+</div>
+
+<br/>
+
+```bash
+const developer = {
+  name: "Bima Aryadinata",
+  alias: "ExRen",
+  institution: "Sriwijaya University",
+  focus: ["Enterprise Web Systems", "Automation Bots", "OSINT / Recon"],
+  currentStack: ["Next.js 14", "TypeScript", "Python (Playwright/Flask)", "Tailwind"],
+  status: "Active & Shipping Code ⚡"
+};
