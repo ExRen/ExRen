@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Profile
 
-Graduate student at **Sriwijaya University** focusing on **Full-Stack Web Engineering**, **End-to-End Automation**, and **Reconnaissance Tooling**.
+Undergraduate student at **Sriwijaya University** focusing on **Full-Stack Web Engineering**, **End-to-End Automation**, and **Reconnaissance Tooling**.
 
 Experienced in building enterprise-grade frontends with **Next.js 14 & TypeScript**, architecting automated data pipelines (crawlers, media processors, headless browser orchestrations), and engineering custom bot integrations (WhatsApp multi-device, automated schedulers, content generators).
 
